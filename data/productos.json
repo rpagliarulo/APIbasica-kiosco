@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nombre": "Caramelo",
+        "peso": "200g",
+        "precio": 150
+    },
+    {
+        "id": 2,
+        "nombre": "Alfajor",
+        "peso": "180g",
+        "precio": 250
+    },
+    {
+        "id": 3,
+        "nombre": "Bon o Bon",
+        "peso": "140g",
+        "precio": 100
+    },
+    {
+        "id": 4,
+        "nombre": "Chupetín",
+        "peso": "500g",
+        "precio": 300
+    },
+    {
+        "id": 5,
+        "nombre": "Vauquita",
+        "peso": "150g",
+        "precio": 80
+    },
+    {
+        "id": 6,
+        "nombre": "Pancho",
+        "peso": "100g",
+        "precio": 70
+    },
+    {
+        "id": 7,
+        "nombre": "Gomitas",
+        "peso": "200g",
+        "precio": 90
+    },
+    {
+        "id": 8,
+        "nombre": "Mantecol",
+        "peso": "250g",
+        "precio": 120
+    },
+    {
+        "id": 9,
+        "nombre": "Chocolate",
+        "peso": "300g",
+        "precio": 110
+    },
+    {
+        "id": 10,
+        "nombre": "Papas fritas",
+        "peso": "400g",
+        "precio": 130
+    }
+]
